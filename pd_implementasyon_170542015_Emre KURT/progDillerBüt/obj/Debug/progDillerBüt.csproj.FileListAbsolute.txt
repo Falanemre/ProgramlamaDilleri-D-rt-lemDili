@@ -1,0 +1,20 @@
+C:\Users\emrek\Desktop\progDillerBüt\progDillerBüt\bin\Debug\progDillerBüt.exe.config
+C:\Users\emrek\Desktop\progDillerBüt\progDillerBüt\bin\Debug\progDillerBüt.exe
+C:\Users\emrek\Desktop\progDillerBüt\progDillerBüt\bin\Debug\progDillerBüt.pdb
+C:\Users\emrek\Desktop\progDillerBüt\progDillerBüt\obj\Debug\progDillerBüt.csprojAssemblyReference.cache
+C:\Users\emrek\Desktop\progDillerBüt\progDillerBüt\obj\Debug\progDillerBüt.Form1.resources
+C:\Users\emrek\Desktop\progDillerBüt\progDillerBüt\obj\Debug\progDillerBüt.Properties.Resources.resources
+C:\Users\emrek\Desktop\progDillerBüt\progDillerBüt\obj\Debug\progDillerBüt.csproj.GenerateResource.cache
+C:\Users\emrek\Desktop\progDillerBüt\progDillerBüt\obj\Debug\progDillerBüt.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\progDillerBüt\progDillerBüt\obj\Debug\progDillerBüt.exe
+C:\Users\emrek\Desktop\progDillerBüt\progDillerBüt\obj\Debug\progDillerBüt.pdb
+C:\Users\emrek\Desktop\pd_implementasyon_170542015_Emre KURT\progDillerBüt\bin\Debug\progDillerBüt.exe.config
+C:\Users\emrek\Desktop\pd_implementasyon_170542015_Emre KURT\progDillerBüt\bin\Debug\progDillerBüt.exe
+C:\Users\emrek\Desktop\pd_implementasyon_170542015_Emre KURT\progDillerBüt\bin\Debug\progDillerBüt.pdb
+C:\Users\emrek\Desktop\pd_implementasyon_170542015_Emre KURT\progDillerBüt\obj\Debug\progDillerBüt.csprojAssemblyReference.cache
+C:\Users\emrek\Desktop\pd_implementasyon_170542015_Emre KURT\progDillerBüt\obj\Debug\progDillerBüt.Form1.resources
+C:\Users\emrek\Desktop\pd_implementasyon_170542015_Emre KURT\progDillerBüt\obj\Debug\progDillerBüt.Properties.Resources.resources
+C:\Users\emrek\Desktop\pd_implementasyon_170542015_Emre KURT\progDillerBüt\obj\Debug\progDillerBüt.csproj.GenerateResource.cache
+C:\Users\emrek\Desktop\pd_implementasyon_170542015_Emre KURT\progDillerBüt\obj\Debug\progDillerBüt.csproj.CoreCompileInputs.cache
+C:\Users\emrek\Desktop\pd_implementasyon_170542015_Emre KURT\progDillerBüt\obj\Debug\progDillerBüt.exe
+C:\Users\emrek\Desktop\pd_implementasyon_170542015_Emre KURT\progDillerBüt\obj\Debug\progDillerBüt.pdb
